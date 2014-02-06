@@ -1,0 +1,9 @@
+{
+    "name": "uploader",
+    "description": "Allows file uploads to Meteor server.",
+    "homepage": "https://github.com/apendua/meteor-uploader",
+    "author": "Tomasz Lenarcik",
+    "version": "0.0.1",
+    "git": "https://github.com/apendua/meteor-uploader.git",
+    "packages": {}
+}
